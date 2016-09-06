@@ -110,7 +110,7 @@ You can type `pikaptcha --help` to see all parameters. Optional parameters are a
 	--googlepass, -gp #This is the password to your google account if you are using -m argument and -av True
 	--location, -l #This is the location that is spoofed when accepting TOS
 	--textfile, -t #This is the location of the output text file. Eg: -t C:\users\sri\desktop\user.txt
-	--outputformat, -of #If you pass pkgo, it will print in the PokemonGo-Map format (-u user -p pass).
+	--outputformat, -of #If you pass pkgo, it will print in the PokemonGo-Map format (-u user -p pass). pkgocsv will support the the CSV format.
 	--startnum, -sn #If you use -c and -u, it will start counting from this number instead
 	--captchatimeout, -ct #If you want captcha to timeout of after n seconds	
 	--inputtext, -it #If you want to read user:pass from file
